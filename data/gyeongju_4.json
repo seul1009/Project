@@ -1,0 +1,146 @@
+[
+    {
+        "id": 0,
+        "title": "대릉한복",
+        "address": "경북 경주시 태종로 751",
+        "lat": 35.8397976058144,
+        "lng": 129.210413622218,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fsearchad-phinf.pstatic.net%2FMjAyNDA1MjdfNzIg%2FMDAxNzE2NzcwNzAyODY3.vdIvjcWf3-bkN7ktZ4i77_jqLGi9_Ic7_DbWE4KLS7og.Lu8GDF1GksqChHc1sUuV10kbx2SQH0bSCloq-4epECkg.PNG%2F3206690-f34af1b1-82ac-4fe9-97f9-19308c1ef7a1.png"
+    },
+    {
+        "id": 1,
+        "title": "돌담길 한복",
+        "address": "경북 경주시 첨성로99번길 30-5",
+        "lat": 35.835683478224,
+        "lng": 129.212936330082,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231016_294%2F1697382713509AfwMQ_JPEG%2FKakaoTalk_20231016.jpg"
+    },
+    {
+        "id": 2,
+        "title": "꽃길한복",
+        "address": "경북 경주시 금성로 235",
+        "lat": 35.8386162164371,
+        "lng": 129.20682803881,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240608_67%2F1717808881064VP2Bf_JPEG%2FKakaoTalk_20240607_160032104_03.jpg"
+    },
+    {
+        "id": 3,
+        "title": "한복과교복",
+        "address": "경북 경주시 계림로 8",
+        "lat": 35.835838007038,
+        "lng": 129.21602046317,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180412_4%2F15235013278052YVQp_JPEG%2F1tNQBQ2zLfc5-xnPSHJSSndd.jpg"
+    },
+    {
+        "id": 4,
+        "title": "한복나드리",
+        "address": "경북 경주시 포석로 1055",
+        "lat": 35.8352617612991,
+        "lng": 129.209418335206,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210418_86%2F16187545560163Eznv_JPEG%2FOHpFPLqrGKAjD4fRb_ZD0dAg.jpg"
+    },
+    {
+        "id": 5,
+        "title": "경주한복판",
+        "address": "경북 경주시 포석로 1077-2",
+        "lat": 35.8373494054854,
+        "lng": 129.209594095826,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231011_212%2F1696952962983UyRyX_JPEG%2F1681394404188-16.jpg"
+    },
+    {
+        "id": 6,
+        "title": "입고놀자",
+        "address": "경북 경주시 포석로1068번길 10",
+        "lat": 35.836003305318,
+        "lng": 129.210423288246,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240425_155%2F1714013907790SlS0m_JPEG%2F20240416_132233.jpg"
+    },
+    {
+        "id": 7,
+        "title": "채비담",
+        "address": "경북 경주시 포석로 1052-1",
+        "lat": 35.8350013711474,
+        "lng": 129.209647910229,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fnaverbooking-phinf.pstatic.net%2F20230719_27%2F1689757288024aIiiN_JPEG%2FKakaoTalk_20230719_180047650.jpg"
+    },
+    {
+        "id": 8,
+        "title": "오늘한복",
+        "address": "경북 경주시 소금강로61번길 9",
+        "lat": 35.8607491096029,
+        "lng": 129.226510371162,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231005_91%2F1696479106873lDsov_JPEG%2Ftemp_file.jpg"
+    },
+    {
+        "id": 9,
+        "title": "교촌의상실",
+        "address": "경북 경주시 교촌길 39-6",
+        "lat": 35.8298296556929,
+        "lng": 129.215297548018,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210720_258%2F1626767349296eP3oo_JPEG%2FhUs6oJLp_iMyGzldWQ89qj3C.jpg"
+    },
+    {
+        "id": 10,
+        "title": "공주마마한복대여",
+        "address": "경북 경주시 포석로 1091-1",
+        "lat": 35.8384822594016,
+        "lng": 129.209723125893,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20181219_228%2F1545203721480rkcdT_JPEG%2FSJ6TB3n1aWmpUGy7BCmZFL6A.jpg"
+    },
+    {
+        "id": 11,
+        "title": "한복스튜디오 결",
+        "address": "경북 경주시 남간안길 11-18",
+        "lat": 35.8164664746571,
+        "lng": 129.217111522704,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20221220_213%2F1671522107740MmMts_JPEG%2F636C593D-B9AB-4E58-9B81-2F8EA3656110.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "한결",
+        "address": "경북 경주시 남간안길 11-18",
+        "lat": 35.8164664746571,
+        "lng": 129.217111522704,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240302_294%2F1709373276564uPDaJ_JPEG%2FKakaoTalk_20240302_151103458_02.jpg"
+    },
+    {
+        "id": 13,
+        "title": "고운자태한복",
+        "address": "경북 경주시 광중1길 20",
+        "lat": 35.8846897825915,
+        "lng": 129.225095948016,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220422_38%2F1650606085423zNGwy_JPEG%2F20220414_133421.jpg"
+    },
+    {
+        "id": 14,
+        "title": "여기 한복",
+        "address": "경북 경주시 교촌길 2",
+        "lat": 35.8330791505266,
+        "lng": 129.213960302399,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240321_226%2F1711007575292R6DIl_JPEG%2F20240223_143634.jpg"
+    },
+    {
+        "id": 15,
+        "title": "신라염궁한복대여",
+        "address": "경북 경주시 원화로 339",
+        "lat": 35.8511509758528,
+        "lng": 129.217157977119,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230203_121%2F1675414021704Fp9jP_JPEG%2F1674649245936.jpg"
+    },
+    {
+        "id": 16,
+        "title": "규방한복",
+        "address": "경북 경주시 동성로 92-2",
+        "lat": 35.8432411369578,
+        "lng": 129.210579701796,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231020_130%2F1697807636191eXhpL_JPEG%2Ftemp_file.jpg"
+    },
+    {
+        "id": 17,
+        "title": "동경의상실",
+        "address": "경북 경주시 첨성로81번길 31",
+        "lat": 35.8359325990191,
+        "lng": 129.210896808271,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20191002_53%2F1570003486796UWDbp_JPEG%2FbvH4fwNJSvwCs2FsR14W28Ef.JPG.jpg"
+    }
+]

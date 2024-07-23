@@ -1,82 +1,58 @@
 [
     {
         "id": 0,
-        "title": "경주쫀드기",
-        "address": "경북 경주시 포석로1050번길 12-3",
-        "lat": "35.8345084969999",
-        "lng": "129.210661756569",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240526_25%2F1716691964587iNibs_JPEG%2F1000009995.jpg"
+        "title": "황박사 경주쫀드기",
+        "address": "경북 경주시 포석로1068번길 15",
+        "lat": 35.8361932145219,
+        "lng": 129.211257252669,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240526_25%2F1716691964587iNibs_JPEG%2F1000009995.jpg"
     },
     {
         "id": 1,
-        "title": "황박사 경주쫀드기",
-        "address": "경북 경주시 포석로1068번길 15",
-        "lat": "35.8361932145219",
-        "lng": "129.211257252669",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230723_98%2F1690083972706E5P9o_JPEG%2F1689916594456.jpg"
+        "title": "쫀드기상회 경주첨성대점",
+        "address": "경북 경주시 포석로1092번길 70",
+        "lat": 35.8348555378555,
+        "lng": 129.215442410085,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230723_98%2F1690083972706E5P9o_JPEG%2F1689916594456.jpg"
     },
     {
         "id": 2,
-        "title": "쫀드기상회 경주첨성대점",
-        "address": "경북 경주시 포석로1092번길 70",
-        "lat": "35.8348555378555",
-        "lng": "129.215442410085",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230731_202%2F1690791745422WAfFq_JPEG%2F%25BB%25E7%25BA%25BB_-Resized_20230720_122852.jpg"
+        "title": "경주울산쫀드기",
+        "address": "경북 경주시 포석로 1053",
+        "lat": 35.8351904688658,
+        "lng": 129.20940960779,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDAzMTdfMjQy%2FMDAxNzEwNjA5MjA3MTM1.MIrK_44lZU6tuY_h65tTmipBrgKYyqwYhk3y74e1eHEg.UJax0UbFeAj69uGlEGY7yN8o64X-nWa4jHt-7_DlyzIg.JPEG%2F20240316_202848.jpg%3Ftype%3Dw1500_60_sharpen"
     },
     {
         "id": 3,
-        "title": "경주울산쫀드기",
-        "address": "경북 경주시 포석로 1053",
-        "lat": "35.8351904688658",
-        "lng": "129.20940960779",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_158%2F17032221114003HCRb_PNG%2FIMG_4204.png"
+        "title": "황남쫀드기",
+        "address": "경북 경주시 포석로 1078",
+        "lat": 35.8372025823297,
+        "lng": 129.209821736735,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20231222_158%2F17032221114003HCRb_PNG%2FIMG_4204.png"
     },
     {
         "id": 4,
-        "title": "황남쫀드기",
-        "address": "경북 경주시 포석로 1078",
-        "lat": "35.8372025823297",
-        "lng": "129.209821736735",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240116_125%2F1705366548244RenkE_JPEG%2F1705366266421.jpg"
+        "title": "황남쫀드기 대릉원점",
+        "address": "경북 경주시 포석로1050번길 45-13",
+        "lat": 35.8349313256346,
+        "lng": 129.214762674421,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA3MjNfMTQ0%2FMDAxNzIxNjk3ODc4NTky.QfbqapYpmdGuUJM3r8LZUVyUVvtkv3TpqzVg8RzHPtIg.Wpyg4NqwaF5qLa6w4StLDZ6zaUPzeldbXEXevrtAk7wg.JPEG%2F816F18E9-C52D-43A2-A1C8-A9D7107D036B.jpeg%3Ftype%3Dw1500_60_sharpen"
     },
     {
         "id": 5,
-        "title": "황남쫀드기 대릉원점",
-        "address": "경북 경주시 포석로1050번길 45-13",
-        "lat": "35.8349313256346",
-        "lng": "129.214762674421",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240121_165%2F1705810886503uIf9H_JPEG%2FIMG_9129.jpeg"
+        "title": "황리단쫀드기",
+        "address": "경북 경주시 포석로1068번길 7",
+        "lat": 35.8363780019292,
+        "lng": 129.210391638011,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA3MTZfNTMg%2FMDAxNzIxMTA3MTk0MTM1.oiBriOuZx98AINYrvUP6ub5gY5wkigoO_bHmewtqpB8g.gDL_v2yBGMz0tll-7dHkjiBmaorcb999mgHkJxjOGokg.JPEG%2F20240713_193325.jpg.jpg%3Ftype%3Dw1500_60_sharpen"
     },
     {
         "id": 6,
-        "title": "황리단쫀드기",
-        "address": "경북 경주시 포석로1068번길 7",
-        "lat": "35.8363780019292",
-        "lng": "129.210391638011",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240104_126%2F1704358501049YVYzY_JPEG%2F1000012560.jpg"
-    },
-    {
-        "id": 7,
         "title": "황남쫀드기 황리단길점",
         "address": "경북 경주시 포석로1092번길 4",
-        "lat": "35.8382119468318",
-        "lng": "129.209963056438",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230624_120%2F1687598836691vJ9Pr_JPEG%2FKakaoTalk_20230624_182637243_03.jpg"
-    },
-    {
-        "id": 8,
-        "title": "경주십원빵 월미도점",
-        "address": "인천 중구 월미로226번길 10",
-        "lat": "37.4762436421079",
-        "lng": "126.598607588739",
-        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240710_270%2F1720579003721rDvnA_JPEG%2F1000015501.jpg"
-    },
-    {
-        "id": 9,
-        "title": "또또푸드",
-        "address": "울산 북구 호계매곡4로 6",
-        "lat": "35.6349164807125",
-        "lng": "129.35898529488",
-        "imgUrl": ""
+        "lat": 35.8382119468318,
+        "lng": 129.209963056438,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyNDA2MjJfMjA2%2FMDAxNzE5MDI4ODg3MjUw.mKrmZCm_0tqNERFZwSlf6ZOE_qblN4tmPtrt2e-J1sMg.53-FSRMR8tvDa39u-T3qcKUFocYcETPC3wvBw1mdsugg.JPEG%2F20240622_121820.jpg.jpg%3Ftype%3Dw1500_60_sharpen"
     }
 ]

@@ -1,82 +1,162 @@
 [
     {
         "id": 0,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "35.7906444842522",
-        "lng": "129.313582062738",
-        "imgUrl": ""
+        "title": "천년애 경주빵 찰보리빵 찰보리떡",
+        "address": "경북 경주시 첨성로 67",
+        "lat": 35.8332387237075,
+        "lng": 129.209737217018,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20161201_26%2F1480569470847V47TK_JPEG%2F177151544770681_0.jpeg"
     },
     {
         "id": 1,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "황남빵",
+        "address": "경북 경주시 태종로 783",
+        "lat": 35.8408710452003,
+        "lng": 129.213690441388,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180305_107%2F1520243415167HugKg_JPEG%2FNlrSMZy9_Pg2NMj6ZORwGRpd.jpg"
     },
     {
         "id": 2,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "이상복명과 경주빵 찰보리빵 본점",
+        "address": "경북 경주시 첨성로 61",
+        "lat": 35.8331695132721,
+        "lng": 129.208797090127,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240315_66%2F171048492249313lea_JPEG%2F%25C0%25CC%25BB%25F3%25BA%25B9_%25BB%25E7%25C1%25F8_7.jpg"
     },
     {
         "id": 3,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "신라명가 경주빵 찰보리빵 본점",
+        "address": "경북 경주시 태종로 807",
+        "lat": 35.8411921893656,
+        "lng": 129.216186711461,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240719_229%2F1721375565427nrsq1_JPEG%2F%25C2%25FB%25BA%25B8%25B8%25AE%25BB%25A72000.jpg"
     },
     {
         "id": 4,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "이상복명과 경주빵 찰보리빵 본가",
+        "address": "경북 경주시 첨성로 169",
+        "lat": 35.8358706307494,
+        "lng": 129.219377955928,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190809_77%2F1565321461296P6nQ6_JPEG%2FDjx_PDtgO6SOXFdqe06riXPF.jpg"
     },
     {
         "id": 5,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "경주빵 황남본점",
+        "address": "경북 경주시 원화로 173",
+        "lat": 35.8365329506568,
+        "lng": 129.220169890514,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240221_276%2F1708516126426A5oD0_JPEG%2FKakaoTalk_20240221_191938659.jpg"
     },
     {
         "id": 6,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "황오당",
+        "address": "경북 경주시 태종로 793",
+        "lat": 35.8411946113987,
+        "lng": 129.214780379571,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20180726_16%2F1532576614502SnStp_JPEG%2F6re3Z-tM4wrVuRdVogsHAsO8.jpg"
     },
     {
         "id": 7,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "토종찰보리빵경주빵 본점",
+        "address": "경북 경주시 태종로 746",
+        "lat": 35.8392936925501,
+        "lng": 129.209681679209,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20230531_103%2F1685516518222RY4vq_JPEG%2F%25B0%25A1%25B0%25D4%25BF%25DC%25BA%25CE%25BB%25E7%25C1%25F8.jpg"
     },
     {
         "id": 8,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "김용경 경주빵",
+        "address": "경북 경주시 북정로 1",
+        "lat": 35.8412110699758,
+        "lng": 129.215133848193,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200105_100%2F1578197394795PM5NF_JPEG%2FSNS33aw85KTYbdymJjjlVqxm.JPG.jpg"
     },
     {
         "id": 9,
-        "title": "원조떡갈비",
-        "address": "경북 경주시 보불로 69",
-        "lat": "",
-        "lng": "",
-        "imgUrl": ""
+        "title": "신라명가 경주빵 찰보리빵 황리단길점",
+        "address": "경북 경주시 포석로 1035-2",
+        "lat": 35.8335876594669,
+        "lng": 129.209362162447,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240719_179%2F172137559253534Ho1_JPEG%2F%25C2%25FB%25BA%25B8%25B8%25AE%25BB%25A72000.jpg"
+    },
+    {
+        "id": 10,
+        "title": "최영화빵",
+        "address": "경북 경주시 북정로 6-1",
+        "lat": 35.8415722858687,
+        "lng": 129.215349506473,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=http%3A%2F%2Fblogfiles.naver.net%2F20160210_264%2Fph_factory_1455113700552Fz0VD_JPEG%2FDSC04877.JPG%23900x600"
+    },
+    {
+        "id": 11,
+        "title": "단석가 찰보리빵 경주본점",
+        "address": "경북 경주시 금성로 237",
+        "lat": 35.8387670977917,
+        "lng": 129.206879470862,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240510_49%2F171531464391347J5u_JPEG%2FDSC00434.jpg"
+    },
+    {
+        "id": 12,
+        "title": "경주특산명과의집",
+        "address": "경북 경주시 북군길 15",
+        "lat": 35.8520342109351,
+        "lng": 129.263478644551,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fsearchad-phinf.pstatic.net%2FMjAyNDAzMjdfMTMg%2FMDAxNzExNDk5NDk2NjUw.khaoz0c9rgE1W24njaFsXAaut94wjFjksHQz0P-elb8g.uy7VW1FnYSkQ8x3rrAHE4TbFyuespzb5H2_hxgYD1EAg.PNG%2F481486-074ccba0-6ab6-4dda-a0d8-6a0789b5b403.png"
+    },
+    {
+        "id": 13,
+        "title": "이상복명과 경주빵 찰보리빵 터미널점",
+        "address": "경북 경주시 태종로685번길 6",
+        "lat": 35.8388196547242,
+        "lng": 129.203014957551,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240607_223%2F1717726276343K0nLN_JPEG%2FSHIN6113.JPG"
+    },
+    {
+        "id": 14,
+        "title": "이상복명과 경주빵 찰보리빵 보문점",
+        "address": "경북 경주시 보문로 535",
+        "lat": 35.8365692660772,
+        "lng": 129.285251929097,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240607_226%2F1717726972707HIi22_JPEG%2FSHIN6113.JPG"
+    },
+    {
+        "id": 15,
+        "title": "이상복명과 경주빵 찰보리빵 동궁원점",
+        "address": "경북 경주시 북군3길 7",
+        "lat": 35.8526485450449,
+        "lng": 129.264118668974,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190916_8%2F1568620569619R1FVf_JPEG%2FkWPaIULUsnV8k5FL_Rtog2ih.jpg"
+    },
+    {
+        "id": 16,
+        "title": "최영화빵 황리단점",
+        "address": "경북 경주시 포석로1095번길 2",
+        "lat": 35.8389957711408,
+        "lng": 129.209678724729,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20190325_58%2F1553489255414sUeAv_PNG%2FlqDJOiJCvqESq56n-gDcUku1.PNG.png"
+    },
+    {
+        "id": 17,
+        "title": "단석가 찰보리빵 경주본점2호점",
+        "address": "경북 경주시 금성로 233",
+        "lat": 35.8385479772559,
+        "lng": 129.206893428122,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240618_19%2F1718685555928i0hvm_JPEG%2FIMG_5968.JPG"
+    },
+    {
+        "id": 18,
+        "title": "이상복명과 경주빵 찰보리빵 천마총점",
+        "address": "경북 경주시 포석로1050번길 51",
+        "lat": 35.8343198101975,
+        "lng": 129.215122994938,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210924_296%2F1632464428521atHxi_JPEG%2FAm55fpBXOZZyhslIK8rMx4CP.jpg"
+    },
+    {
+        "id": 19,
+        "title": "신라명가 경주빵 찰보리빵 보문점",
+        "address": "경북 경주시 보불로 335",
+        "lat": 35.812727349886,
+        "lng": 129.306206421447,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20240205_94%2F17071308679274tFMf_PNG%2FIMG_6447.png"
     }
 ]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "title": "불국사",
+        "address": "경북 경주시 불국로 385",
+        "lat": 35.7923023161251,
+        "lng": 129.331725391321,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20150831_3%2F1441013639378uCTFr_JPEG%2F11663971_0.jpg"
+    },
+    {
+        "id": 1,
+        "title": "불국사 템플스테이",
+        "address": "경북 경주시 갓거랑길 13-7",
+        "lat": 35.7904498389402,
+        "lng": 129.316791785236,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20220212_292%2F1644670567732n2qKN_JPEG%2F20210711_054852.jpg"
+    },
+    {
+        "id": 2,
+        "title": "불국사한옥팜스테이",
+        "address": "경북 경주시 진티길 5-52",
+        "lat": 35.7829337637688,
+        "lng": 129.328022152588,
+        "imgUrl": "https://search.pstatic.net/common/?autoRotate=true&quality=95&type=f160_160&src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20201111_213%2F1605058271961pVsgs_JPEG%2FYVHuLXhcPM8Kuu7iyicV9U2G.jpg"
+    },
+    {
+        "id": 3,
+        "title": "경주불국사관광안내소",
+        "address": "경북 경주시 진현동 50-2",
+        "lat": 35.7864885292455,
+        "lng": 129.328648700655,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMjA2MDlfMSAg%2FMDAxNjU0NzU4OTI4Mjkw.g0vo7flXpzIhuc6C79Qq4cjO3B3xCkhHPSwNqR_3zT8g.qdvzpuhUzHskHJXv6KUkYodv0-_nhGy5nwN3P6S0QlUg.JPEG%2Fupload_96a91b12ca7c6fbab8b411f59a4355f9.jpg%3Ftype%3Dw1500_60_sharpen"
+    },
+    {
+        "id": 4,
+        "title": "불국사박물관",
+        "address": "경북 경주시 불국로 385",
+        "lat": 35.7923023161251,
+        "lng": 129.331725391321,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fpup-review-phinf.pstatic.net%2FMjAyMzA5MTZfOTcg%2FMDAxNjk0ODY2MTkzNzMy.zQPXtIz_HtdR8LQocDWzuPQ4NNNqtCJMxaUyj9Rt9GAg.7ZUHL7UlXUWpchhCy0OAAWFgQSCMULrpLsJ2gQtGo6kg.JPEG%2FFCB723BD-33AF-4709-8861-A7CF31FD4C2B.jpeg%3Ftype%3Dw1500_60_sharpen"
+    },
+    {
+        "id": 5,
+        "title": "불국사성보박물관",
+        "address": "경북 경주시 진현동 122",
+        "lat": 35.788595934379,
+        "lng": 129.333211269273,
+        "imgUrl": "https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210426_261%2F1619424229149mLJaD_JPEG%2FzDUuV26Wuc23JQsGnnKitAYW.jpeg.jpg"
+    }
+]
